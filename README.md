@@ -32,11 +32,19 @@ entre outros...
 - Busca de endereços a partir do CEP
 - Busca de informações da COVID-19 a partir do estado/UF
 
-**Para testar todos os recursos da aplicação, utilize a collection do Postman abaixo:**
+### Para testar todos os recursos da aplicação, utilize a collection do Postman abaixo:
+
 - [Postman Collection](https://www.getpostman.com/collections/0d3373477809b21f4ff9)
 
-## Links utilizados em aula
+## Links úteis
 
 - [Spring Initializr](https://start.spring.io/)
 - [API Covid](https://covid19-brazil-api.vercel.app/api/report/v1/brazil/uf/RJ)
 - [API Address](https://api.postmon.com.br/v1/cep/89160188)
+
+## Ambiente, recursos e requisitos necessários
+
+- Java 11+
+- Postman ou Insomnia
+- Seu editor de código de preferência (No meu caso, Intellij)
+- Vontade de aprender :D
